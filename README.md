@@ -90,8 +90,8 @@ An expanding collection of data scrapers designed to gather location details on 
 | [Publix](https://github.com/stiles/locations/tree/main/publix)                         | Retail Stores             |     1,407 |
 | [Safeway](https://github.com/stiles/locations/tree/main/safeway)                       | Retail Stores             |       865 |
 | [Sephora](https://github.com/stiles/locations/tree/main/sephora)                       | Beauty Products           |     1,602 |
-| [Sonic](https://github.com/stiles/locations/tree/main/shipley-donuts)                  | Fast Food & Quick Service |     3,529 |
-| [Shipley Do-Nuts](https://github.com/stiles/locations/tree/main/sonic)                 | Coffee Shops & Desserts   |       374 |
+| [Sonic](https://github.com/stiles/locations/tree/main/sonic)                  | Fast Food & Quick Service |     3,529 |
+| [Shipley Do-Nuts](https://github.com/stiles/locations/tree/main/shipley-donuts)                 | Coffee Shops & Desserts   |       374 |
 | [Subway](https://github.com/stiles/locations/tree/main/subway)                 | Fast Food & Quick Service   |       21,229 |
 | [Superior Grocers](https://github.com/stiles/locations/tree/main/superior-grocers)                 | Retail Stores   |       73 |
 | [Starbucks](https://github.com/stiles/locations/tree/main/starbucks)                   | Coffee Shops & Desserts   |    16,288 |
